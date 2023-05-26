@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.fireevacuationexperiment.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\experiment\\SynologyDrive\\BotFire\\HRI_RescueRobot\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "FireEvacuationExperiment [Testing]"
+        }
+      }
+    }
+  ]
+}
